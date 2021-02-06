@@ -22,4 +22,5 @@ In our Vine_Review_Analysis notebook, multiple tables were created to filter the
 
 ## Summary
 To summarize, there is a higher chance of 5-star reviews from unpaid reviewers in the music industry based on the music Vine dataset Amazon provides and about zero chance for paid reviews.
+
 ![Screenshot 2021-02-05 182942](https://user-images.githubusercontent.com/71358697/107106588-3afe9f00-67e1-11eb-9654-dd7e361bf413.png)
